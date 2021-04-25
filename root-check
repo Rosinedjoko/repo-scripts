@@ -15,4 +15,5 @@ fi
  fi
  #checking memory
    free -m
-   exit 99
+   exit 0
+
